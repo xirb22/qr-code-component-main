@@ -39,6 +39,8 @@ This project was a great way to get started with front-end web development. It w
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
 ```
 
+- How to perform element aligment using position: absolute and transform: translate()
+
 - Thinking about layout and using wrapper-classes to achieve a desired layout.
 ```html
   <div class="card-wrapper">
