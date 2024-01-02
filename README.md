@@ -40,6 +40,16 @@ This project was a great way to get started with front-end web development. It w
 ```
 
 - How to perform element aligment using position: absolute and transform: translate()
+```css
+body {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
+```
+
 
 - Thinking about layout and using wrapper-classes to achieve a desired layout.
 ```html
